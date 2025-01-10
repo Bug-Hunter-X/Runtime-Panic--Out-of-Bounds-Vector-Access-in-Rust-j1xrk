@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in Rust: an out-of-bounds access of a vector.  The `bug.rs` file contains the buggy code. The `bugSolution.rs` file provides a corrected version. This error is particularly tricky to debug as it only manifests during runtime.
